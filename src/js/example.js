@@ -1,3 +1,3 @@
 export const example = () => {
-  return 'GitHub Actions test!'
+  return 'GitHub Actions test!!!'
 }
