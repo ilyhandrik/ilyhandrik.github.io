@@ -1,0 +1,145 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #ddd;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+#canvas {
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  border: 1px solid #aaa;
+}
+
+.tools {
+  background-color: #e0e0e0b7;
+  position: absolute;
+}
+
+.search-container {
+  width: 100%;
+  box-sizing: border-box;
+  justify-content: center;
+  padding: 12px;
+  display: flex;
+  position: absolute;
+}
+
+.search-field {
+  width: 300px;
+  height: 38px;
+  color: #fff;
+  background-color: #fff;
+  border-radius: 4px;
+  align-items: center;
+  padding-left: 8px;
+  display: flex;
+  position: relative;
+  box-shadow: -2px -2px 8px #8e7665;
+}
+
+.search-field input {
+  width: calc(100% - 32px);
+  color: #000;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  font-size: 18px;
+}
+
+.search-field__icon {
+  justify-content: center;
+  align-items: center;
+  padding-right: 6px;
+  display: flex;
+}
+
+.search-field__icon:hover {
+  cursor: pointer;
+}
+
+.search-field__icon svg {
+  width: 24px;
+  height: 24px;
+  fill: #e2e2e2;
+}
+
+.search-field__icon-active svg {
+  fill: #e00;
+}
+
+.divider {
+  width: 1px;
+  height: 24px;
+  background-color: #e2e2e2;
+  margin: 0 8px;
+}
+
+.search-suggestions {
+  width: 100%;
+  color: #000;
+  background-color: #fffefe;
+  border-radius: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+
+.suggestion-item {
+  width: 100%;
+  box-sizing: border-box;
+  cursor: default;
+  border-radius: 4px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 10px;
+  line-height: 100%;
+  display: flex;
+}
+
+.suggestion-item svg {
+  width: 18px;
+  height: 18px;
+  fill: #e2e2e2;
+}
+
+.suggestion-item-selected {
+  background-color: #e0e0e0;
+}
+
+.suggestion-item-selected svg {
+  fill: #252a35;
+}
+
+.close-icon {
+  display: none;
+}
+
+.target {
+  width: 4px;
+  height: 4px;
+  background-color: red;
+  position: absolute;
+}
+
+.label {
+  text-align: center;
+  color: #fff;
+  background: #18171786;
+  border-radius: 3px;
+  justify-content: center;
+  padding: 2px 6px;
+  font-family: Roboto, sans-serif;
+  font-size: 24px;
+  line-height: 100%;
+  display: none;
+  position: absolute;
+}
+
