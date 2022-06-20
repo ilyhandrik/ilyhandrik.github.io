@@ -66,7 +66,7 @@ $1fd388fe1a0c2157$export$f7ad0328861e2f03 = $1fd388fe1a0c2157$var$resolve;
 
 var $e243bf37f8572d85$exports = {};
 
-(parcelRequire("2JpsI")).register(JSON.parse('{"2gkgR":"index.4802c578.js","6WEnx":"999999999999999.23287efd.png","e4V3I":"SMALL.988b0d08.png","gHbB2":"low.0c9ad13e.webp","eK9CM":"map-marker-icon.400e0ced.png","9sMZ1":"night-sky3.db5c0d45.png","6cju0":"oreol.c6dae463.png"}'));
+(parcelRequire("2JpsI")).register(JSON.parse('{"2gkgR":"index.34a7686f.js","6WEnx":"999999999999999.23287efd.png","e4V3I":"SMALL.988b0d08.png","gHbB2":"low.0c9ad13e.webp","eK9CM":"map-marker-icon.400e0ced.png","9sMZ1":"night-sky3.db5c0d45.png","6cju0":"oreol.c6dae463.png"}'));
 
 var $b6e62343e59abe43$exports = {};
 
@@ -3329,7 +3329,6 @@ const $74a5b179c5969087$var$init = ()=>{
     };
     const animationDuration = 3000;
     document.addEventListener("click", (e)=>{
-        moveHandler(e);
         requestAnimationFrame(()=>{
             if (hoveredPlace.hovered && isRotate) window.open(hoveredPlace.url);
         });
@@ -3391,6 +3390,8 @@ const $74a5b179c5969087$var$init = ()=>{
     };
     const wheel = (e)=>{
         camera.dist = camera.dist + e.deltaY / 500;
+        if (camera.dist > 12) camera.dist = 12;
+        else if (camera.dist < 2.8) camera.dist = 2.8;
         setMouseActiveAreaBoundaries();
     };
     const touchStart = (e)=>{
@@ -3419,7 +3420,6 @@ const $74a5b179c5969087$var$init = ()=>{
         if (isRotate) camera.lang += 0.01;
         if (goToData.active) {
             isRotate = false;
-            t = Date.now();
             const tP = (Date.now() - goToData.prevTime) / animationDuration;
             let dLat = tP * Math.abs(goToData.dir.lat);
             let dLng = tP * Math.abs(goToData.dir.lng);
