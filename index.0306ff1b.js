@@ -66,7 +66,7 @@ $1fd388fe1a0c2157$export$f7ad0328861e2f03 = $1fd388fe1a0c2157$var$resolve;
 
 var $e243bf37f8572d85$exports = {};
 
-(parcelRequire("2JpsI")).register(JSON.parse('{"2gkgR":"index.7ff1202f.js","6WEnx":"999999999999999.23287efd.png","e4V3I":"SMALL.988b0d08.png","gHbB2":"low.0c9ad13e.webp","eK9CM":"map-marker-icon.400e0ced.png","9sMZ1":"night-sky3.db5c0d45.png","6cju0":"oreol.c6dae463.png"}'));
+(parcelRequire("2JpsI")).register(JSON.parse('{"2gkgR":"index.0306ff1b.js","6WEnx":"999999999999999.23287efd.png","e4V3I":"SMALL.988b0d08.png","gHbB2":"low.0c9ad13e.webp","eK9CM":"map-marker-icon.400e0ced.png","9sMZ1":"night-sky3.db5c0d45.png","6cju0":"oreol.c6dae463.png"}'));
 
 var $b6e62343e59abe43$exports = {};
 
@@ -2004,12 +2004,207 @@ const $2c59c3e297ed1d4b$var$matrix4 = {
 var $2c59c3e297ed1d4b$export$2e2bcd8739ae039 = $2c59c3e297ed1d4b$var$matrix4;
 
 
-var $5d11ffc170b1a8db$exports = {};
-$5d11ffc170b1a8db$exports = JSON.parse('{"pages":["roboto-bold2.png"],"chars":[{"id":40,"index":12,"char":"(","width":92,"height":183,"xoffset":-22,"yoffset":24,"xadvance":42,"chnl":15,"x":0,"y":0,"page":0},{"id":41,"index":13,"char":")","width":92,"height":183,"xoffset":-28,"yoffset":24,"xadvance":42,"chnl":15,"x":93,"y":0,"page":0},{"id":91,"index":63,"char":"[","width":84,"height":177,"xoffset":-22,"yoffset":22,"xadvance":33,"chnl":15,"x":186,"y":0,"page":0},{"id":93,"index":65,"char":"]","width":84,"height":177,"xoffset":-29,"yoffset":22,"xadvance":33,"chnl":15,"x":271,"y":0,"page":0},{"id":123,"index":95,"char":"{","width":95,"height":175,"xoffset":-27,"yoffset":26,"xadvance":40,"chnl":15,"x":356,"y":0,"page":0},{"id":125,"index":97,"char":"}","width":95,"height":175,"xoffset":-28,"yoffset":26,"xadvance":40,"chnl":15,"x":356,"y":176,"page":0},{"id":106,"index":78,"char":"j","width":87,"height":173,"xoffset":-34,"yoffset":33,"xadvance":30,"chnl":15,"x":186,"y":178,"page":0},{"id":36,"index":8,"char":"$","width":116,"height":171,"xoffset":-24,"yoffset":21,"xadvance":68,"chnl":15,"x":0,"y":184,"page":0},{"id":64,"index":36,"char":"@","width":156,"height":170,"xoffset":-24,"yoffset":37,"xadvance":107,"chnl":15,"x":452,"y":0,"page":0},{"id":81,"index":53,"char":"Q","width":131,"height":161,"xoffset":-24,"yoffset":34,"xadvance":83,"chnl":15,"x":452,"y":171,"page":0},{"id":87,"index":59,"char":"W","width":161,"height":145,"xoffset":-27,"yoffset":35,"xadvance":106,"chnl":15,"x":0,"y":356,"page":0},{"id":124,"index":96,"char":"|","width":70,"height":161,"xoffset":-20,"yoffset":35,"xadvance":30,"chnl":15,"x":274,"y":178,"page":0},{"id":47,"index":19,"char":"/","width":105,"height":153,"xoffset":-30,"yoffset":35,"xadvance":47,"chnl":15,"x":162,"y":352,"page":0},{"id":92,"index":64,"char":"\\\\","width":110,"height":153,"xoffset":-29,"yoffset":35,"xadvance":50,"chnl":15,"x":268,"y":352,"page":0},{"id":98,"index":70,"char":"b","width":116,"height":151,"xoffset":-23,"yoffset":30,"xadvance":68,"chnl":15,"x":379,"y":352,"page":0},{"id":100,"index":72,"char":"d","width":116,"height":151,"xoffset":-25,"yoffset":30,"xadvance":68,"chnl":15,"x":496,"y":333,"page":0},{"id":102,"index":74,"char":"f","width":100,"height":151,"xoffset":-27,"yoffset":29,"xadvance":43,"chnl":15,"x":584,"y":171,"page":0},{"id":103,"index":75,"char":"g","width":116,"height":150,"xoffset":-25,"yoffset":55,"xadvance":68,"chnl":15,"x":609,"y":0,"page":0},{"id":104,"index":76,"char":"h","width":112,"height":150,"xoffset":-23,"yoffset":30,"xadvance":67,"chnl":15,"x":613,"y":323,"page":0},{"id":107,"index":79,"char":"k","width":116,"height":150,"xoffset":-23,"yoffset":30,"xadvance":63,"chnl":15,"x":685,"y":151,"page":0},{"id":108,"index":80,"char":"l","width":74,"height":150,"xoffset":-22,"yoffset":30,"xadvance":31,"chnl":15,"x":726,"y":0,"page":0},{"id":109,"index":81,"char":"m","width":150,"height":125,"xoffset":-23,"yoffset":55,"xadvance":104,"chnl":15,"x":801,"y":0,"page":0},{"id":112,"index":84,"char":"p","width":116,"height":149,"xoffset":-23,"yoffset":55,"xadvance":68,"chnl":15,"x":726,"y":302,"page":0},{"id":113,"index":85,"char":"q","width":115,"height":149,"xoffset":-25,"yoffset":55,"xadvance":68,"chnl":15,"x":802,"y":126,"page":0},{"id":121,"index":93,"char":"y","width":117,"height":149,"xoffset":-29,"yoffset":57,"xadvance":58,"chnl":15,"x":843,"y":276,"page":0},{"id":37,"index":9,"char":"%","width":137,"height":148,"xoffset":-24,"yoffset":33,"xadvance":88,"chnl":15,"x":0,"y":502,"page":0},{"id":38,"index":10,"char":"&","width":131,"height":148,"xoffset":-25,"yoffset":34,"xadvance":77,"chnl":15,"x":843,"y":426,"page":0},{"id":48,"index":20,"char":"0","width":116,"height":148,"xoffset":-24,"yoffset":34,"xadvance":68,"chnl":15,"x":726,"y":452,"page":0},{"id":51,"index":23,"char":"3","width":117,"height":148,"xoffset":-25,"yoffset":34,"xadvance":68,"chnl":15,"x":843,"y":575,"page":0},{"id":56,"index":28,"char":"8","width":116,"height":148,"xoffset":-24,"yoffset":34,"xadvance":68,"chnl":15,"x":496,"y":485,"page":0},{"id":67,"index":39,"char":"C","width":128,"height":148,"xoffset":-24,"yoffset":34,"xadvance":78,"chnl":15,"x":613,"y":601,"page":0},{"id":71,"index":43,"char":"G","width":128,"height":148,"xoffset":-24,"yoffset":34,"xadvance":82,"chnl":15,"x":0,"y":750,"page":0},{"id":77,"index":49,"char":"M","width":148,"height":145,"xoffset":-21,"yoffset":35,"xadvance":105,"chnl":15,"x":129,"y":750,"page":0},{"id":79,"index":51,"char":"O","width":131,"height":148,"xoffset":-24,"yoffset":34,"xadvance":83,"chnl":15,"x":278,"y":506,"page":0},{"id":83,"index":55,"char":"S","width":124,"height":148,"xoffset":-26,"yoffset":34,"xadvance":72,"chnl":15,"x":138,"y":506,"page":0},{"id":54,"index":26,"char":"6","width":116,"height":147,"xoffset":-23,"yoffset":34,"xadvance":68,"chnl":15,"x":410,"y":634,"page":0},{"id":57,"index":29,"char":"9","width":116,"height":147,"xoffset":-25,"yoffset":34,"xadvance":68,"chnl":15,"x":278,"y":655,"page":0},{"id":63,"index":35,"char":"?","width":110,"height":147,"xoffset":-26,"yoffset":34,"xadvance":58,"chnl":15,"x":278,"y":803,"page":0},{"id":105,"index":77,"char":"i","width":76,"height":147,"xoffset":-23,"yoffset":33,"xadvance":31,"chnl":15,"x":918,"y":126,"page":0},{"id":33,"index":5,"char":"!","width":76,"height":146,"xoffset":-22,"yoffset":35,"xadvance":32,"chnl":15,"x":527,"y":634,"page":0},{"id":49,"index":21,"char":"1","width":95,"height":146,"xoffset":-20,"yoffset":34,"xadvance":68,"chnl":15,"x":742,"y":601,"page":0},{"id":50,"index":22,"char":"2","width":119,"height":146,"xoffset":-25,"yoffset":34,"xadvance":68,"chnl":15,"x":838,"y":724,"page":0},{"id":53,"index":25,"char":"5","width":116,"height":146,"xoffset":-22,"yoffset":35,"xadvance":68,"chnl":15,"x":389,"y":871,"page":0},{"id":74,"index":46,"char":"J","width":116,"height":146,"xoffset":-27,"yoffset":35,"xadvance":67,"chnl":15,"x":506,"y":871,"page":0},{"id":85,"index":57,"char":"U","width":124,"height":146,"xoffset":-23,"yoffset":35,"xadvance":78,"chnl":15,"x":623,"y":871,"page":0},{"id":35,"index":7,"char":"#","width":125,"height":145,"xoffset":-24,"yoffset":35,"xadvance":73,"chnl":15,"x":748,"y":871,"page":0},{"id":52,"index":24,"char":"4","width":122,"height":145,"xoffset":-27,"yoffset":35,"xadvance":68,"chnl":15,"x":874,"y":871,"page":0},{"id":55,"index":27,"char":"7","width":119,"height":145,"xoffset":-26,"yoffset":35,"xadvance":68,"chnl":15,"x":958,"y":724,"page":0},{"id":65,"index":37,"char":"A","width":138,"height":145,"xoffset":-29,"yoffset":35,"xadvance":80,"chnl":15,"x":961,"y":575,"page":0},{"id":66,"index":38,"char":"B","width":121,"height":145,"xoffset":-21,"yoffset":35,"xadvance":76,"chnl":15,"x":961,"y":274,"page":0},{"id":68,"index":40,"char":"D","width":124,"height":145,"xoffset":-21,"yoffset":35,"xadvance":78,"chnl":15,"x":997,"y":870,"page":0},{"id":69,"index":41,"char":"E","width":116,"height":145,"xoffset":-21,"yoffset":35,"xadvance":68,"chnl":15,"x":1078,"y":721,"page":0},{"id":70,"index":42,"char":"F","width":114,"height":145,"xoffset":-21,"yoffset":35,"xadvance":66,"chnl":15,"x":975,"y":420,"page":0},{"id":72,"index":44,"char":"H","width":128,"height":145,"xoffset":-21,"yoffset":35,"xadvance":85,"chnl":15,"x":1122,"y":867,"page":0},{"id":73,"index":45,"char":"I","width":75,"height":145,"xoffset":-20,"yoffset":35,"xadvance":34,"chnl":15,"x":995,"y":0,"page":0},{"id":75,"index":47,"char":"K","width":128,"height":145,"xoffset":-21,"yoffset":35,"xadvance":76,"chnl":15,"x":1071,"y":0,"page":0},{"id":76,"index":48,"char":"L","width":114,"height":145,"xoffset":-21,"yoffset":35,"xadvance":65,"chnl":15,"x":1083,"y":146,"page":0},{"id":78,"index":50,"char":"N","width":128,"height":145,"xoffset":-21,"yoffset":35,"xadvance":85,"chnl":15,"x":1090,"y":292,"page":0},{"id":80,"index":52,"char":"P","width":124,"height":145,"xoffset":-21,"yoffset":35,"xadvance":77,"chnl":15,"x":1198,"y":146,"page":0},{"id":82,"index":54,"char":"R","width":124,"height":145,"xoffset":-21,"yoffset":35,"xadvance":75,"chnl":15,"x":1200,"y":0,"page":0},{"id":84,"index":56,"char":"T","width":128,"height":145,"xoffset":-27,"yoffset":35,"xadvance":73,"chnl":15,"x":1100,"y":438,"page":0},{"id":86,"index":58,"char":"V","width":136,"height":145,"xoffset":-29,"yoffset":35,"xadvance":78,"chnl":15,"x":1219,"y":292,"page":0},{"id":88,"index":60,"char":"X","width":131,"height":145,"xoffset":-28,"yoffset":35,"xadvance":76,"chnl":15,"x":1323,"y":146,"page":0},{"id":89,"index":61,"char":"Y","width":132,"height":145,"xoffset":-30,"yoffset":35,"xadvance":73,"chnl":15,"x":1325,"y":0,"page":0},{"id":90,"index":62,"char":"Z","width":124,"height":145,"xoffset":-25,"yoffset":35,"xadvance":72,"chnl":15,"x":1195,"y":584,"page":0},{"id":119,"index":91,"char":"w","width":145,"height":123,"xoffset":-28,"yoffset":57,"xadvance":89,"chnl":15,"x":0,"y":899,"page":0},{"id":59,"index":31,"char":";","width":80,"height":144,"xoffset":-27,"yoffset":55,"xadvance":29,"chnl":15,"x":1229,"y":438,"page":0},{"id":116,"index":88,"char":"t","width":96,"height":140,"xoffset":-30,"yoffset":41,"xadvance":40,"chnl":15,"x":1310,"y":438,"page":0},{"id":97,"index":69,"char":"a","width":114,"height":126,"xoffset":-25,"yoffset":55,"xadvance":65,"chnl":15,"x":146,"y":896,"page":0},{"id":99,"index":71,"char":"c","width":115,"height":126,"xoffset":-25,"yoffset":55,"xadvance":63,"chnl":15,"x":1195,"y":730,"page":0},{"id":101,"index":73,"char":"e","width":116,"height":126,"xoffset":-25,"yoffset":55,"xadvance":64,"chnl":15,"x":1356,"y":292,"page":0},{"id":111,"index":83,"char":"o","width":119,"height":126,"xoffset":-25,"yoffset":55,"xadvance":68,"chnl":15,"x":1455,"y":146,"page":0},{"id":115,"index":87,"char":"s","width":112,"height":126,"xoffset":-26,"yoffset":55,"xadvance":62,"chnl":15,"x":613,"y":474,"page":0},{"id":126,"index":98,"char":"~","width":126,"height":85,"xoffset":-23,"yoffset":72,"xadvance":80,"chnl":15,"x":395,"y":782,"page":0},{"id":58,"index":30,"char":":","width":77,"height":125,"xoffset":-22,"yoffset":55,"xadvance":32,"chnl":15,"x":995,"y":146,"page":0},{"id":110,"index":82,"char":"n","width":112,"height":125,"xoffset":-23,"yoffset":55,"xadvance":67,"chnl":15,"x":1458,"y":0,"page":0},{"id":114,"index":86,"char":"r","width":93,"height":125,"xoffset":-23,"yoffset":55,"xadvance":42,"chnl":15,"x":1100,"y":584,"page":0},{"id":117,"index":89,"char":"u","width":113,"height":125,"xoffset":-23,"yoffset":57,"xadvance":67,"chnl":15,"x":1571,"y":0,"page":0},{"id":118,"index":90,"char":"v","width":116,"height":123,"xoffset":-29,"yoffset":57,"xadvance":59,"chnl":15,"x":1251,"y":857,"page":0},{"id":120,"index":92,"char":"x","width":117,"height":123,"xoffset":-28,"yoffset":57,"xadvance":60,"chnl":15,"x":1311,"y":730,"page":0},{"id":122,"index":94,"char":"z","width":111,"height":123,"xoffset":-25,"yoffset":57,"xadvance":60,"chnl":15,"x":1320,"y":579,"page":0},{"id":43,"index":15,"char":"+","width":118,"height":122,"xoffset":-26,"yoffset":49,"xadvance":67,"chnl":15,"x":1407,"y":419,"page":0},{"id":60,"index":32,"char":"<","width":109,"height":115,"xoffset":-26,"yoffset":55,"xadvance":61,"chnl":15,"x":604,"y":750,"page":0},{"id":62,"index":34,"char":">","width":111,"height":115,"xoffset":-22,"yoffset":55,"xadvance":62,"chnl":15,"x":714,"y":750,"page":0},{"id":95,"index":67,"char":"_","width":114,"height":71,"xoffset":-30,"yoffset":120,"xadvance":54,"chnl":15,"x":261,"y":951,"page":0},{"id":42,"index":14,"char":"*","width":110,"height":111,"xoffset":-28,"yoffset":35,"xadvance":53,"chnl":15,"x":1473,"y":273,"page":0},{"id":61,"index":33,"char":"=","width":111,"height":97,"xoffset":-22,"yoffset":62,"xadvance":67,"chnl":15,"x":0,"y":651,"page":0},{"id":94,"index":66,"char":"^","width":105,"height":103,"xoffset":-27,"yoffset":35,"xadvance":51,"chnl":15,"x":1575,"y":126,"page":0},{"id":44,"index":16,"char":",","width":79,"height":93,"xoffset":-28,"yoffset":106,"xadvance":26,"chnl":15,"x":112,"y":655,"page":0},{"id":34,"index":6,"char":"\\"","width":88,"height":91,"xoffset":-24,"yoffset":30,"xadvance":39,"chnl":15,"x":1368,"y":854,"page":0},{"id":45,"index":17,"char":"-","width":91,"height":71,"xoffset":-26,"yoffset":78,"xadvance":39,"chnl":15,"x":1368,"y":946,"page":0},{"id":39,"index":11,"char":"\'","width":71,"height":90,"xoffset":-25,"yoffset":30,"xadvance":20,"chnl":15,"x":192,"y":655,"page":0},{"id":96,"index":68,"char":"`","width":88,"height":78,"xoffset":-27,"yoffset":30,"xadvance":39,"chnl":15,"x":1429,"y":703,"page":0},{"id":46,"index":18,"char":".","width":77,"height":76,"xoffset":-22,"yoffset":105,"xadvance":34,"chnl":15,"x":522,"y":782,"page":0},{"id":32,"index":4,"char":" ","width":0,"height":0,"xoffset":-30,"yoffset":120,"xadvance":30,"chnl":15,"x":801,"y":126,"page":0}],"info":{"face":"Roboto-Medium","size":120,"bold":0,"italic":0,"charset":[" ","!","\\"","#","$","%","&","\'","(",")","*","+",",","-",".","/","0","1","2","3","4","5","6","7","8","9",":",";","<","=",">","?","@","A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z","[","\\\\","]","^","_","`","a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","{","|","}","~"],"unicode":1,"stretchH":100,"smooth":1,"aa":1,"padding":[30,30,30,30],"spacing":[0,0]},"common":{"lineHeight":126,"base":120,"scaleW":2048,"scaleH":1024,"pages":1,"packed":0,"alphaChnl":0,"redChnl":0,"greenChnl":0,"blueChnl":0},"distanceField":{"fieldType":"msdf","distanceRange":60},"kernings":[{"first":32,"second":84,"amount":-4},{"first":34,"second":34,"amount":-2},{"first":34,"second":39,"amount":-2},{"first":34,"second":65,"amount":-7},{"first":34,"second":97,"amount":-3},{"first":34,"second":99,"amount":-3},{"first":34,"second":100,"amount":-3},{"first":34,"second":101,"amount":-3},{"first":34,"second":103,"amount":-3},{"first":34,"second":109,"amount":-1},{"first":34,"second":110,"amount":-1},{"first":34,"second":111,"amount":-5},{"first":34,"second":112,"amount":-1},{"first":34,"second":113,"amount":-3},{"first":34,"second":115,"amount":-5},{"first":34,"second":119,"amount":1},{"first":39,"second":34,"amount":-2},{"first":39,"second":39,"amount":-2},{"first":39,"second":65,"amount":-7},{"first":39,"second":97,"amount":-3},{"first":39,"second":99,"amount":-3},{"first":39,"second":100,"amount":-3},{"first":39,"second":101,"amount":-3},{"first":39,"second":103,"amount":-3},{"first":39,"second":109,"amount":-1},{"first":39,"second":110,"amount":-1},{"first":39,"second":111,"amount":-5},{"first":39,"second":112,"amount":-1},{"first":39,"second":113,"amount":-3},{"first":39,"second":115,"amount":-5},{"first":39,"second":119,"amount":1},{"first":40,"second":86,"amount":1},{"first":40,"second":87,"amount":2},{"first":40,"second":89,"amount":1},{"first":44,"second":34,"amount":-17},{"first":44,"second":39,"amount":-17},{"first":46,"second":34,"amount":-17},{"first":46,"second":39,"amount":-17},{"first":47,"second":47,"amount":-15},{"first":65,"second":34,"amount":-7},{"first":65,"second":39,"amount":-7},{"first":65,"second":63,"amount":-5},{"first":65,"second":67,"amount":-1},{"first":65,"second":71,"amount":-1},{"first":65,"second":79,"amount":-1},{"first":65,"second":81,"amount":-1},{"first":65,"second":84,"amount":-7},{"first":65,"second":85,"amount":-1},{"first":65,"second":86,"amount":-5},{"first":65,"second":87,"amount":-2},{"first":65,"second":89,"amount":-9},{"first":65,"second":109,"amount":-3},{"first":65,"second":110,"amount":-3},{"first":65,"second":111,"amount":-1},{"first":65,"second":112,"amount":-3},{"first":65,"second":116,"amount":-1},{"first":65,"second":117,"amount":-1},{"first":65,"second":118,"amount":-3},{"first":65,"second":119,"amount":-2},{"first":65,"second":121,"amount":-3},{"first":65,"second":122,"amount":1},{"first":66,"second":84,"amount":-2},{"first":66,"second":86,"amount":-1},{"first":66,"second":89,"amount":-3},{"first":67,"second":41,"amount":-2},{"first":67,"second":84,"amount":-2},{"first":67,"second":93,"amount":-1},{"first":67,"second":125,"amount":-1},{"first":68,"second":44,"amount":-7},{"first":68,"second":46,"amount":-7},{"first":68,"second":65,"amount":-1},{"first":68,"second":84,"amount":-5},{"first":68,"second":86,"amount":-1},{"first":68,"second":88,"amount":-1},{"first":68,"second":89,"amount":-3},{"first":68,"second":90,"amount":-1},{"first":69,"second":84,"amount":1},{"first":69,"second":99,"amount":-1},{"first":69,"second":100,"amount":-1},{"first":69,"second":101,"amount":-1},{"first":69,"second":102,"amount":-1},{"first":69,"second":103,"amount":-1},{"first":69,"second":111,"amount":-1},{"first":69,"second":113,"amount":-1},{"first":69,"second":117,"amount":-1},{"first":69,"second":118,"amount":-2},{"first":69,"second":119,"amount":-1},{"first":69,"second":121,"amount":-2},{"first":70,"second":44,"amount":-16},{"first":70,"second":46,"amount":-16},{"first":70,"second":65,"amount":-11},{"first":70,"second":74,"amount":-12},{"first":70,"second":84,"amount":1},{"first":70,"second":97,"amount":-2},{"first":70,"second":99,"amount":-1},{"first":70,"second":100,"amount":-1},{"first":70,"second":101,"amount":-1},{"first":70,"second":103,"amount":-1},{"first":70,"second":111,"amount":-1},{"first":70,"second":113,"amount":-1},{"first":70,"second":114,"amount":-2},{"first":70,"second":117,"amount":-1},{"first":70,"second":118,"amount":-1},{"first":70,"second":121,"amount":-1},{"first":72,"second":65,"amount":1},{"first":72,"second":84,"amount":-2},{"first":72,"second":88,"amount":1},{"first":72,"second":89,"amount":-2},{"first":73,"second":65,"amount":1},{"first":73,"second":84,"amount":-2},{"first":73,"second":88,"amount":1},{"first":73,"second":89,"amount":-2},{"first":74,"second":65,"amount":-1},{"first":75,"second":45,"amount":-10},{"first":75,"second":67,"amount":-2},{"first":75,"second":71,"amount":-2},{"first":75,"second":79,"amount":-2},{"first":75,"second":81,"amount":-2},{"first":75,"second":99,"amount":-2},{"first":75,"second":100,"amount":-2},{"first":75,"second":101,"amount":-2},{"first":75,"second":103,"amount":-2},{"first":75,"second":111,"amount":-2},{"first":75,"second":113,"amount":-2},{"first":75,"second":117,"amount":-1},{"first":75,"second":118,"amount":-2},{"first":75,"second":119,"amount":-4},{"first":75,"second":121,"amount":-2},{"first":76,"second":34,"amount":-17},{"first":76,"second":39,"amount":-17},{"first":76,"second":65,"amount":1},{"first":76,"second":67,"amount":-4},{"first":76,"second":71,"amount":-4},{"first":76,"second":79,"amount":-4},{"first":76,"second":81,"amount":-4},{"first":76,"second":84,"amount":-12},{"first":76,"second":85,"amount":-1},{"first":76,"second":86,"amount":-12},{"first":76,"second":87,"amount":-5},{"first":76,"second":89,"amount":-16},{"first":76,"second":117,"amount":-1},{"first":76,"second":118,"amount":-7},{"first":76,"second":119,"amount":-3},{"first":76,"second":121,"amount":-7},{"first":77,"second":65,"amount":1},{"first":77,"second":84,"amount":-2},{"first":77,"second":88,"amount":1},{"first":77,"second":89,"amount":-2},{"first":78,"second":65,"amount":1},{"first":78,"second":84,"amount":-2},{"first":78,"second":88,"amount":1},{"first":78,"second":89,"amount":-2},{"first":79,"second":44,"amount":-7},{"first":79,"second":46,"amount":-7},{"first":79,"second":65,"amount":-1},{"first":79,"second":84,"amount":-5},{"first":79,"second":86,"amount":-1},{"first":79,"second":88,"amount":-1},{"first":79,"second":89,"amount":-3},{"first":79,"second":90,"amount":-1},{"first":80,"second":44,"amount":-24},{"first":80,"second":46,"amount":-24},{"first":80,"second":65,"amount":-10},{"first":80,"second":74,"amount":-11},{"first":80,"second":88,"amount":-3},{"first":80,"second":90,"amount":-2},{"first":80,"second":97,"amount":-1},{"first":80,"second":99,"amount":-1},{"first":80,"second":100,"amount":-1},{"first":80,"second":101,"amount":-1},{"first":80,"second":103,"amount":-1},{"first":80,"second":111,"amount":-1},{"first":80,"second":113,"amount":-1},{"first":80,"second":116,"amount":1},{"first":80,"second":118,"amount":1},{"first":80,"second":121,"amount":1},{"first":81,"second":84,"amount":-2},{"first":81,"second":86,"amount":-2},{"first":81,"second":87,"amount":-1},{"first":81,"second":89,"amount":-2},{"first":82,"second":84,"amount":-3},{"first":82,"second":86,"amount":-1},{"first":82,"second":89,"amount":-3},{"first":84,"second":32,"amount":-4},{"first":84,"second":44,"amount":-15},{"first":84,"second":45,"amount":-16},{"first":84,"second":46,"amount":-15},{"first":84,"second":65,"amount":-7},{"first":84,"second":67,"amount":-2},{"first":84,"second":71,"amount":-2},{"first":84,"second":74,"amount":-13},{"first":84,"second":79,"amount":-2},{"first":84,"second":81,"amount":-2},{"first":84,"second":83,"amount":-1},{"first":84,"second":84,"amount":1},{"first":84,"second":86,"amount":1},{"first":84,"second":87,"amount":1},{"first":84,"second":89,"amount":1},{"first":84,"second":97,"amount":-10},{"first":84,"second":99,"amount":-5},{"first":84,"second":100,"amount":-5},{"first":84,"second":101,"amount":-5},{"first":84,"second":103,"amount":-5},{"first":84,"second":109,"amount":-5},{"first":84,"second":110,"amount":-5},{"first":84,"second":111,"amount":-12},{"first":84,"second":112,"amount":-5},{"first":84,"second":113,"amount":-5},{"first":84,"second":114,"amount":-4},{"first":84,"second":115,"amount":-4},{"first":84,"second":117,"amount":-4},{"first":84,"second":118,"amount":-5},{"first":84,"second":119,"amount":-3},{"first":84,"second":120,"amount":-5},{"first":84,"second":121,"amount":-5},{"first":84,"second":122,"amount":-4},{"first":85,"second":65,"amount":-1},{"first":86,"second":41,"amount":1},{"first":86,"second":44,"amount":-13},{"first":86,"second":45,"amount":-9},{"first":86,"second":46,"amount":-13},{"first":86,"second":65,"amount":-4},{"first":86,"second":67,"amount":-1},{"first":86,"second":71,"amount":-1},{"first":86,"second":79,"amount":-1},{"first":86,"second":81,"amount":-1},{"first":86,"second":93,"amount":1},{"first":86,"second":97,"amount":-3},{"first":86,"second":99,"amount":-3},{"first":86,"second":100,"amount":-3},{"first":86,"second":101,"amount":-3},{"first":86,"second":103,"amount":-3},{"first":86,"second":111,"amount":-3},{"first":86,"second":113,"amount":-3},{"first":86,"second":114,"amount":-2},{"first":86,"second":117,"amount":-2},{"first":86,"second":118,"amount":-1},{"first":86,"second":121,"amount":-1},{"first":86,"second":125,"amount":1},{"first":87,"second":41,"amount":1},{"first":87,"second":44,"amount":-8},{"first":87,"second":45,"amount":-4},{"first":87,"second":46,"amount":-8},{"first":87,"second":65,"amount":-3},{"first":87,"second":84,"amount":1},{"first":87,"second":93,"amount":1},{"first":87,"second":97,"amount":-2},{"first":87,"second":99,"amount":-2},{"first":87,"second":100,"amount":-2},{"first":87,"second":101,"amount":-2},{"first":87,"second":103,"amount":-2},{"first":87,"second":111,"amount":-2},{"first":87,"second":113,"amount":-2},{"first":87,"second":114,"amount":-1},{"first":87,"second":117,"amount":-1},{"first":87,"second":125,"amount":1},{"first":88,"second":45,"amount":-9},{"first":88,"second":67,"amount":-1},{"first":88,"second":71,"amount":-1},{"first":88,"second":79,"amount":-1},{"first":88,"second":81,"amount":-1},{"first":88,"second":86,"amount":1},{"first":88,"second":99,"amount":-2},{"first":88,"second":100,"amount":-2},{"first":88,"second":101,"amount":-2},{"first":88,"second":103,"amount":-2},{"first":88,"second":111,"amount":-1},{"first":88,"second":113,"amount":-2},{"first":88,"second":117,"amount":-1},{"first":88,"second":118,"amount":-2},{"first":88,"second":121,"amount":-2},{"first":89,"second":38,"amount":-2},{"first":89,"second":41,"amount":1},{"first":89,"second":42,"amount":-3},{"first":89,"second":44,"amount":-14},{"first":89,"second":45,"amount":-9},{"first":89,"second":46,"amount":-14},{"first":89,"second":65,"amount":-9},{"first":89,"second":67,"amount":-2},{"first":89,"second":71,"amount":-2},{"first":89,"second":74,"amount":-6},{"first":89,"second":79,"amount":-2},{"first":89,"second":81,"amount":-2},{"first":89,"second":83,"amount":-1},{"first":89,"second":84,"amount":1},{"first":89,"second":85,"amount":-6},{"first":89,"second":86,"amount":1},{"first":89,"second":87,"amount":1},{"first":89,"second":88,"amount":1},{"first":89,"second":89,"amount":1},{"first":89,"second":93,"amount":1},{"first":89,"second":97,"amount":-4},{"first":89,"second":99,"amount":-4},{"first":89,"second":100,"amount":-4},{"first":89,"second":101,"amount":-4},{"first":89,"second":102,"amount":-1},{"first":89,"second":103,"amount":-4},{"first":89,"second":109,"amount":-2},{"first":89,"second":110,"amount":-2},{"first":89,"second":111,"amount":-4},{"first":89,"second":112,"amount":-2},{"first":89,"second":113,"amount":-4},{"first":89,"second":114,"amount":-2},{"first":89,"second":115,"amount":-3},{"first":89,"second":116,"amount":-1},{"first":89,"second":117,"amount":-2},{"first":89,"second":118,"amount":-1},{"first":89,"second":120,"amount":-1},{"first":89,"second":121,"amount":-1},{"first":89,"second":122,"amount":-2},{"first":89,"second":125,"amount":1},{"first":90,"second":65,"amount":1},{"first":90,"second":67,"amount":-2},{"first":90,"second":71,"amount":-2},{"first":90,"second":79,"amount":-2},{"first":90,"second":81,"amount":-2},{"first":90,"second":99,"amount":-1},{"first":90,"second":100,"amount":-1},{"first":90,"second":101,"amount":-1},{"first":90,"second":103,"amount":-1},{"first":90,"second":111,"amount":-1},{"first":90,"second":113,"amount":-1},{"first":90,"second":117,"amount":-1},{"first":90,"second":118,"amount":-2},{"first":90,"second":119,"amount":-2},{"first":90,"second":121,"amount":-2},{"first":91,"second":74,"amount":-1},{"first":91,"second":85,"amount":-1},{"first":97,"second":34,"amount":-1},{"first":97,"second":39,"amount":-1},{"first":97,"second":118,"amount":-1},{"first":97,"second":121,"amount":-1},{"first":98,"second":34,"amount":-2},{"first":98,"second":39,"amount":-2},{"first":98,"second":118,"amount":-1},{"first":98,"second":120,"amount":-1},{"first":98,"second":121,"amount":-1},{"first":98,"second":122,"amount":-1},{"first":99,"second":34,"amount":-1},{"first":99,"second":39,"amount":-1},{"first":101,"second":34,"amount":-1},{"first":101,"second":39,"amount":-1},{"first":101,"second":118,"amount":-1},{"first":101,"second":121,"amount":-1},{"first":102,"second":34,"amount":1},{"first":102,"second":39,"amount":1},{"first":102,"second":41,"amount":1},{"first":102,"second":93,"amount":1},{"first":102,"second":99,"amount":-1},{"first":102,"second":100,"amount":-1},{"first":102,"second":101,"amount":-1},{"first":102,"second":103,"amount":-1},{"first":102,"second":113,"amount":-1},{"first":102,"second":125,"amount":1},{"first":104,"second":34,"amount":-5},{"first":104,"second":39,"amount":-5},{"first":107,"second":99,"amount":-1},{"first":107,"second":100,"amount":-1},{"first":107,"second":101,"amount":-1},{"first":107,"second":103,"amount":-1},{"first":107,"second":113,"amount":-1},{"first":109,"second":34,"amount":-5},{"first":109,"second":39,"amount":-5},{"first":110,"second":34,"amount":-5},{"first":110,"second":39,"amount":-5},{"first":111,"second":34,"amount":-5},{"first":111,"second":39,"amount":-5},{"first":111,"second":118,"amount":-1},{"first":111,"second":120,"amount":-1},{"first":111,"second":121,"amount":-1},{"first":111,"second":122,"amount":-1},{"first":112,"second":34,"amount":-2},{"first":112,"second":39,"amount":-2},{"first":112,"second":118,"amount":-1},{"first":112,"second":120,"amount":-1},{"first":112,"second":121,"amount":-1},{"first":112,"second":122,"amount":-1},{"first":114,"second":34,"amount":1},{"first":114,"second":39,"amount":1},{"first":114,"second":44,"amount":-10},{"first":114,"second":46,"amount":-10},{"first":114,"second":97,"amount":-2},{"first":114,"second":99,"amount":-1},{"first":114,"second":100,"amount":-1},{"first":114,"second":101,"amount":-1},{"first":114,"second":102,"amount":1},{"first":114,"second":103,"amount":-1},{"first":114,"second":111,"amount":-2},{"first":114,"second":113,"amount":-1},{"first":114,"second":116,"amount":3},{"first":114,"second":118,"amount":1},{"first":114,"second":119,"amount":1},{"first":114,"second":121,"amount":1},{"first":116,"second":111,"amount":-2},{"first":118,"second":34,"amount":1},{"first":118,"second":39,"amount":1},{"first":118,"second":44,"amount":-10},{"first":118,"second":46,"amount":-10},{"first":118,"second":97,"amount":-1},{"first":118,"second":99,"amount":-1},{"first":118,"second":100,"amount":-1},{"first":118,"second":101,"amount":-1},{"first":118,"second":102,"amount":1},{"first":118,"second":103,"amount":-1},{"first":118,"second":111,"amount":-1},{"first":118,"second":113,"amount":-1},{"first":119,"second":44,"amount":-7},{"first":119,"second":46,"amount":-7},{"first":120,"second":99,"amount":-1},{"first":120,"second":100,"amount":-1},{"first":120,"second":101,"amount":-1},{"first":120,"second":103,"amount":-1},{"first":120,"second":111,"amount":-2},{"first":120,"second":113,"amount":-1},{"first":121,"second":34,"amount":1},{"first":121,"second":39,"amount":1},{"first":121,"second":44,"amount":-10},{"first":121,"second":46,"amount":-10},{"first":121,"second":97,"amount":-1},{"first":121,"second":99,"amount":-1},{"first":121,"second":100,"amount":-1},{"first":121,"second":101,"amount":-1},{"first":121,"second":102,"amount":1},{"first":121,"second":103,"amount":-1},{"first":121,"second":111,"amount":-1},{"first":121,"second":113,"amount":-1},{"first":122,"second":99,"amount":-1},{"first":122,"second":100,"amount":-1},{"first":122,"second":101,"amount":-1},{"first":122,"second":103,"amount":-1},{"first":122,"second":111,"amount":-1},{"first":122,"second":113,"amount":-1},{"first":123,"second":74,"amount":-1},{"first":123,"second":85,"amount":-1}]}');
+const $4a6945cabdc0860e$var$getSphereData = (latitudeBands, longitudeBands, radius, textureRatio)=>{
+    const vertexPositionData = [];
+    const normalData = [];
+    const textureCoordData = [];
+    for(let latNumber = 0; latNumber <= latitudeBands; latNumber++){
+        const theta = latNumber * Math.PI / latitudeBands;
+        const sinTheta = Math.sin(theta);
+        const cosTheta = Math.cos(theta);
+        for(let longNumber = 0; longNumber <= longitudeBands; longNumber++){
+            const phi = longNumber * 2 * Math.PI / longitudeBands;
+            const sinPhi = Math.sin(phi);
+            const cosPhi = Math.cos(phi);
+            const x = cosPhi * sinTheta;
+            const y = cosTheta;
+            const z = sinPhi * sinTheta;
+            const u = 1 - longNumber / longitudeBands;
+            const v = 1 - latNumber / latitudeBands;
+            normalData.push(x);
+            normalData.push(y);
+            normalData.push(z);
+            textureCoordData.push(u * textureRatio);
+            textureCoordData.push(v * textureRatio);
+            vertexPositionData.push(radius * x);
+            vertexPositionData.push(radius * y);
+            vertexPositionData.push(radius * z);
+        }
+    }
+    const indexData = [];
+    for(let latNumber1 = 0; latNumber1 < latitudeBands; latNumber1++)for(let longNumber = 0; longNumber < longitudeBands; longNumber++){
+        const first = latNumber1 * (longitudeBands + 1) + longNumber;
+        const second = first + longitudeBands + 1;
+        indexData.push(first);
+        indexData.push(second);
+        indexData.push(first + 1);
+        indexData.push(second);
+        indexData.push(second + 1);
+        indexData.push(first + 1);
+    }
+    return {
+        vertexPositionData: vertexPositionData,
+        textureCoordData: textureCoordData,
+        indexData: indexData,
+        normalData: normalData
+    };
+};
+var $4a6945cabdc0860e$export$2e2bcd8739ae039 = $4a6945cabdc0860e$var$getSphereData;
 
 
-var $0e29f89097e37eaa$exports = {};
-$0e29f89097e37eaa$exports = JSON.parse('{"countries":[{"code":"AD","lat":"42.546245","lng":"1.601554","name":"Andorra"},{"code":"AE","lat":"23.424076","lng":"53.847818","name":"United Arab Emirates"},{"code":"AF","lat":"33.93911","lng":"67.709953","name":"Afghanistan"},{"code":"AG","lat":"17.060816","lng":"-61.796428","name":"Antigua and Barbuda"},{"code":"AI","lat":"18.220554","lng":"-63.068615","name":"Anguilla"},{"code":"AL","lat":"41.153332","lng":"20.168331","name":"Albania"},{"code":"AM","lat":"40.069099","lng":"45.038189","name":"Armenia"},{"code":"AO","lat":"-11.202692","lng":"17.873887","name":"Angola"},{"code":"AQ","lat":"-75.250973","lng":"-0.071389","name":"Antarctica"},{"code":"AR","lat":"-38.416097","lng":"-63.616672","name":"Argentina"},{"code":"AS","lat":"-14.270972","lng":"-170.132217","name":"American Samoa"},{"code":"AT","lat":"47.516231","lng":"14.550072","name":"Austria"},{"code":"AU","lat":"-25.274398","lng":"133.775136","name":"Australia"},{"code":"AW","lat":"12.52111","lng":"-69.968338","name":"Aruba"},{"code":"AZ","lat":"40.143105","lng":"47.576927","name":"Azerbaijan"},{"code":"BA","lat":"43.915886","lng":"17.679076","name":"Bosnia and Herzegovina"},{"code":"BB","lat":"13.193887","lng":"-59.543198","name":"Barbados"},{"code":"BD","lat":"23.684994","lng":"90.356331","name":"Bangladesh"},{"code":"BE","lat":"50.503887","lng":"4.469936","name":"Belgium"},{"code":"BF","lat":"12.238333","lng":"-1.561593","name":"Burkina Faso"},{"code":"MX","lat":"23.634501","lng":"-102.552784","name":"Mexico"},{"code":"BG","lat":"42.733883","lng":"25.48583","name":"Bulgaria"},{"code":"BH","lat":"25.930414","lng":"50.637772","name":"Bahrain"},{"code":"BI","lat":"-3.373056","lng":"29.918886","name":"Burundi"},{"code":"BJ","lat":"9.30769","lng":"2.315834","name":"Benin"},{"code":"BM","lat":"32.321384","lng":"-64.75737","name":"Bermuda"},{"code":"BN","lat":"4.535277","lng":"114.727669","name":"Brunei"},{"code":"BO","lat":"-16.290154","lng":"-63.588653","name":"Bolivia"},{"code":"BR","lat":"-14.235004","lng":"-51.92528","name":"Brazil"},{"code":"BS","lat":"25.03428","lng":"-77.39628","name":"Bahamas"},{"code":"BT","lat":"27.514162","lng":"90.433601","name":"Bhutan"},{"code":"BV","lat":"-54.423199","lng":"3.413194","name":"Bouvet Island"},{"code":"BW","lat":"-22.328474","lng":"24.684866","name":"Botswana"},{"code":"BY","lat":"53.709807","lng":"27.953389","name":"Belarus"},{"code":"BZ","lat":"17.189877","lng":"-88.49765","name":"Belize"},{"code":"CA","lat":"56.130366","lng":"-106.346771","name":"Canada"},{"code":"US","lat":"37.09","lng":"-95.71","name":"United States"},{"code":"CC","lat":"-12.164165","lng":"96.870956","name":"Cocos Islands"},{"code":"CD","lat":"-4.038333","lng":"21.758664","name":"Congo"},{"code":"CF","lat":"6.611111","lng":"20.939444","name":"CAR"},{"code":"CG","lat":"-0.228021","lng":"15.827659","name":"Congo"},{"code":"CH","lat":"46.818188","lng":"8.227512","name":"Switzerland"},{"code":"CI","lat":"7.539989","lng":"-5.54708","name":"Ivory Coast"},{"code":"CK","lat":"-21.236736","lng":"-159.777671","name":"Cook Islands"},{"code":"CL","lat":"-35.675147","lng":"-71.542969","name":"Chile"},{"code":"CM","lat":"7.369722","lng":"12.354722","name":"Cameroon"},{"code":"CN","lat":"35.86166","lng":"104.195397","name":"China"},{"code":"RU","lat":"61.52401","lng":"105.318756","name":"Russia"},{"code":"CO","lat":"4.570868","lng":"-74.297333","name":"Colombia"},{"code":"CR","lat":"9.748917","lng":"-83.753428","name":"Costa Rica"},{"code":"CU","lat":"21.521757","lng":"-77.781167","name":"Cuba"},{"code":"CV","lat":"16.002082","lng":"-24.013197","name":"Cape Verde"},{"code":"CX","lat":"-10.447525","lng":"105.690449","name":"Christmas Island"},{"code":"CY","lat":"35.126413","lng":"33.429859","name":"Cyprus"},{"code":"CZ","lat":"49.817492","lng":"15.472962","name":"Czech Republic"},{"code":"DE","lat":"51.165691","lng":"10.451526","name":"Germany"},{"code":"DJ","lat":"11.825138","lng":"42.590275","name":"Djibouti"},{"code":"DK","lat":"56.26392","lng":"9.501785","name":"Denmark"},{"code":"DM","lat":"15.414999","lng":"-61.370976","name":"Dominica"},{"code":"DO","lat":"18.735693","lng":"-70.162651","name":"Dominican Republic"},{"code":"DZ","lat":"28.033886","lng":"1.659626","name":"Algeria"},{"code":"EC","lat":"-1.831239","lng":"-78.183406","name":"Ecuador"},{"code":"EE","lat":"58.595272","lng":"25.013607","name":"Estonia"},{"code":"EG","lat":"26.820553","lng":"30.802498","name":"Egypt"},{"code":"EH","lat":"24.215527","lng":"-12.885834","name":"Western Sahara"},{"code":"ER","lat":"15.179384","lng":"39.782334","name":"Eritrea"},{"code":"ES","lat":"40.463667","lng":"-3.74922","name":"Spain"},{"code":"ET","lat":"9.145","lng":"40.489673","name":"Ethiopia"},{"code":"FI","lat":"61.92411","lng":"25.748151","name":"Finland"},{"code":"FJ","lat":"-16.578193","lng":"179.414413","name":"Fiji"},{"code":"FK","lat":"-51.796253","lng":"-59.523613","name":"Falkland Islands"},{"code":"FM","lat":"7.425554","lng":"150.550812","name":"Micronesia"},{"code":"FO","lat":"61.892635","lng":"-6.911806","name":"Faroe Islands"},{"code":"FR","lat":"46.227638","lng":"2.213749","name":"France"},{"code":"GA","lat":"-0.803689","lng":"11.609444","name":"Gabon"},{"code":"GB","lat":"55.378051","lng":"-3.435973","name":"United Kingdom"},{"code":"GD","lat":"12.262776","lng":"-61.604171","name":"Grenada"},{"code":"GE","lat":"42.315407","lng":"43.356892","name":"Georgia"},{"code":"GF","lat":"3.933889","lng":"-53.125782","name":"French Guiana"},{"code":"GG","lat":"49.465691","lng":"-2.585278","name":"Guernsey"},{"code":"GH","lat":"7.946527","lng":"-1.023194","name":"Ghana"},{"code":"GI","lat":"36.137741","lng":"-5.345374","name":"Gibraltar"},{"code":"GL","lat":"71.706936","lng":"-42.604303","name":"Greenland"},{"code":"GM","lat":"13.443182","lng":"-15.310139","name":"Gambia"},{"code":"GN","lat":"9.945587","lng":"-9.696645","name":"Guinea"},{"code":"GP","lat":"16.995971","lng":"-62.067641","name":"Guadeloupe"},{"code":"GQ","lat":"1.650801","lng":"10.267895","name":"Equatorial Guinea"},{"code":"GR","lat":"39.074208","lng":"21.824312","name":"Greece"},{"code":"GT","lat":"15.783471","lng":"-90.230759","name":"Guatemala"},{"code":"GU","lat":"13.444304","lng":"144.793731","name":"Guam"},{"code":"GW","lat":"11.803749","lng":"-15.180413","name":"Guinea-Bissau"},{"code":"GY","lat":"4.860416","lng":"-58.93018","name":"Guyana"},{"code":"GZ","lat":"31.354676","lng":"34.308825","name":"Gaza Strip"},{"code":"HK","lat":"22.396428","lng":"114.109497","name":"Hong Kong"},{"code":"HN","lat":"15.199999","lng":"-86.241905","name":"Honduras"},{"code":"HR","lat":"45.1","lng":"15.2","name":"Croatia"},{"code":"HT","lat":"18.971187","lng":"-72.285215","name":"Haiti"},{"code":"HU","lat":"47.162494","lng":"19.503304","name":"Hungary"},{"code":"ID","lat":"-0.789275","lng":"113.921327","name":"Indonesia"},{"code":"IE","lat":"53.41291","lng":"-8.24389","name":"Ireland"},{"code":"IL","lat":"31.046051","lng":"34.851612","name":"Israel"},{"code":"IM","lat":"54.236107","lng":"-4.548056","name":"Isle of Man"},{"code":"IN","lat":"20.593684","lng":"78.96288","name":"India"},{"code":"IQ","lat":"33.223191","lng":"43.679291","name":"Iraq"},{"code":"IR","lat":"32.427908","lng":"53.688046","name":"Iran"},{"code":"IS","lat":"64.963051","lng":"-19.020835","name":"Iceland"},{"code":"IT","lat":"41.87194","lng":"12.56738","name":"Italy"},{"code":"JE","lat":"49.214439","lng":"-2.13125","name":"Jersey"},{"code":"JM","lat":"18.109581","lng":"-77.297508","name":"Jamaica"},{"code":"JO","lat":"30.585164","lng":"36.238414","name":"Jordan"},{"code":"JP","lat":"36.204824","lng":"138.252924","name":"Japan"},{"code":"KE","lat":"-0.023559","lng":"37.906193","name":"Kenya"},{"code":"KG","lat":"41.20438","lng":"74.766098","name":"Kyrgyzstan"},{"code":"KH","lat":"12.565679","lng":"104.990963","name":"Cambodia"},{"code":"KI","lat":"-3.370417","lng":"-168.734039","name":"Kiribati"},{"code":"KM","lat":"-11.875001","lng":"43.872219","name":"Comoros"},{"code":"KP","lat":"40.339852","lng":"127.510093","name":"North Korea"},{"code":"KR","lat":"35.907757","lng":"127.766922","name":"South Korea"},{"code":"KW","lat":"29.31166","lng":"47.481766","name":"Kuwait"},{"code":"KY","lat":"19.513469","lng":"-80.566956","name":"Cayman Islands"},{"code":"KZ","lat":"48.019573","lng":"66.923684","name":"Kazakhstan"},{"code":"LA","lat":"19.85627","lng":"102.495496","name":"Laos"},{"code":"LB","lat":"33.854721","lng":"35.862285","name":"Lebanon"},{"code":"LC","lat":"13.909444","lng":"-60.978893","name":"Saint Lucia"},{"code":"LI","lat":"47.166","lng":"9.555373","name":"Liechtenstein"},{"code":"LK","lat":"7.873054","lng":"80.771797","name":"Sri Lanka"},{"code":"LR","lat":"6.428055","lng":"-9.429499","name":"Liberia"},{"code":"LS","lat":"-29.609988","lng":"28.233608","name":"Lesotho"},{"code":"LT","lat":"55.169438","lng":"23.881275","name":"Lithuania"},{"code":"LU","lat":"49.815273","lng":"6.129583","name":"Luxembourg"},{"code":"LV","lat":"56.879635","lng":"24.603189","name":"Latvia"},{"code":"LY","lat":"26.3351","lng":"17.228331","name":"Libya"},{"code":"MA","lat":"31.791702","lng":"-7.09262","name":"Morocco"},{"code":"MC","lat":"43.750298","lng":"7.412841","name":"Monaco"},{"code":"MD","lat":"47.411631","lng":"28.369885","name":"Moldova"},{"code":"ME","lat":"42.708678","lng":"19.37439","name":"Montenegro"},{"code":"MG","lat":"-18.766947","lng":"46.869107","name":"Madagascar"},{"code":"MH","lat":"7.131474","lng":"171.184478","name":"Marshall Islands"},{"code":"MK","lat":"41.608635","lng":"21.745275","name":"Macedonia"},{"code":"ML","lat":"17.570692","lng":"-3.996166","name":"Mali"},{"code":"MM","lat":"21.913965","lng":"95.956223","name":"Myanmar"},{"code":"MN","lat":"46.862496","lng":"103.846656","name":"Mongolia"},{"code":"MO","lat":"22.198745","lng":"113.543873","name":"Macau"},{"code":"MQ","lat":"14.641528","lng":"-61.024174","name":"Martinique"},{"code":"MR","lat":"21.00789","lng":"-10.940835","name":"Mauritania"},{"code":"MS","lat":"16.742498","lng":"-62.187366","name":"Montserrat"},{"code":"MT","lat":"35.937496","lng":"14.375416","name":"Malta"},{"code":"MU","lat":"-20.348404","lng":"57.552152","name":"Mauritius"},{"code":"MV","lat":"3.202778","lng":"73.22068","name":"Maldives"},{"code":"MW","lat":"-13.254308","lng":"34.301525","name":"Malawi"},{"code":"MY","lat":"4.210484","lng":"101.975766","name":"Malaysia"},{"code":"MZ","lat":"-18.665695","lng":"35.529562","name":"Mozambique"},{"code":"NA","lat":"-22.95764","lng":"18.49041","name":"Namibia"},{"code":"NC","lat":"-20.904305","lng":"165.618042","name":"New Caledonia"},{"code":"NE","lat":"17.607789","lng":"8.081666","name":"Niger"},{"code":"NF","lat":"-29.040835","lng":"167.954712","name":"Norfolk Island"},{"code":"NG","lat":"9.081999","lng":"8.675277","name":"Nigeria"},{"code":"NI","lat":"12.865416","lng":"-85.207229","name":"Nicaragua"},{"code":"NL","lat":"52.132633","lng":"5.291266","name":"Netherlands"},{"code":"NO","lat":"60.472024","lng":"8.468946","name":"Norway"},{"code":"NP","lat":"28.394857","lng":"84.124008","name":"Nepal"},{"code":"NR","lat":"-0.522778","lng":"166.931503","name":"Nauru"},{"code":"NU","lat":"-19.054445","lng":"-169.867233","name":"Niue"},{"code":"NZ","lat":"-40.900557","lng":"174.885971","name":"New Zealand"},{"code":"OM","lat":"21.512583","lng":"55.923255","name":"Oman"},{"code":"PA","lat":"8.537981","lng":"-80.782127","name":"Panama"},{"code":"PE","lat":"-9.189967","lng":"-75.015152","name":"Peru"},{"code":"PF","lat":"-17.679742","lng":"-149.406843","name":"French Polynesia"},{"code":"PG","lat":"-6.314993","lng":"143.95555","name":"Papua New Guinea"},{"code":"PH","lat":"12.879721","lng":"121.774017","name":"Philippines"},{"code":"PK","lat":"30.375321","lng":"69.345116","name":"Pakistan"},{"code":"PL","lat":"51.919438","lng":"19.145136","name":"Poland"},{"code":"PN","lat":"-24.703615","lng":"-127.439308","name":"Pitcairn Islands"},{"code":"PR","lat":"18.220833","lng":"-66.590149","name":"Puerto Rico"},{"code":"PT","lat":"39.399872","lng":"-8.224454","name":"Portugal"},{"code":"PW","lat":"7.51498","lng":"134.58252","name":"Palau"},{"code":"PY","lat":"-23.442503","lng":"-58.443832","name":"Paraguay"},{"code":"QA","lat":"25.354826","lng":"51.183884","name":"Qatar"},{"code":"RE","lat":"-21.115141","lng":"55.536384","name":"Reunion"},{"code":"RO","lat":"45.943161","lng":"24.96676","name":"Romania"},{"code":"RS","lat":"44.016521","lng":"21.005859","name":"Serbia"},{"code":"RW","lat":"-1.940278","lng":"29.873888","name":"Rwanda"},{"code":"SA","lat":"23.885942","lng":"45.079162","name":"Saudi Arabia"},{"code":"SB","lat":"-9.64571","lng":"160.156194","name":"Solomon Islands"},{"code":"SC","lat":"-4.679574","lng":"55.491977","name":"Seychelles"},{"code":"SD","lat":"12.862807","lng":"30.217636","name":"Sudan"},{"code":"SE","lat":"60.128161","lng":"18.643501","name":"Sweden"},{"code":"SG","lat":"1.352083","lng":"103.819836","name":"Singapore"},{"code":"SH","lat":"-24.143474","lng":"-10.030696","name":"Saint Helena"},{"code":"SI","lat":"46.151241","lng":"14.995463","name":"Slovenia"},{"code":"SK","lat":"48.669026","lng":"19.699024","name":"Slovakia"},{"code":"SL","lat":"8.460555","lng":"-11.779889","name":"Sierra Leone"},{"code":"SM","lat":"43.94236","lng":"12.457777","name":"San Marino"},{"code":"SN","lat":"14.497401","lng":"-14.452362","name":"Senegal"},{"code":"SO","lat":"5.152149","lng":"46.199616","name":"Somalia"},{"code":"SR","lat":"3.919305","lng":"-56.027783","name":"Suriname"},{"code":"SV","lat":"13.794185","lng":"-88.89653","name":"El Salvador"},{"code":"SY","lat":"34.802075","lng":"38.996815","name":"Syria"},{"code":"SZ","lat":"-26.522503","lng":"31.465866","name":"Swaziland"},{"code":"TD","lat":"15.454166","lng":"18.732207","name":"Chad"},{"code":"TG","lat":"8.619543","lng":"0.824782","name":"Togo"},{"code":"TH","lat":"15.870032","lng":"100.992541","name":"Thailand"},{"code":"TJ","lat":"38.861034","lng":"71.276093","name":"Tajikistan"},{"code":"TK","lat":"-8.967363","lng":"-171.855881","name":"Tokelau"},{"code":"TM","lat":"38.969719","lng":"59.556278","name":"Turkmenistan"},{"code":"TN","lat":"33.886917","lng":"9.537499","name":"Tunisia"},{"code":"TO","lat":"-21.178986","lng":"-175.198242","name":"Tonga"},{"code":"TR","lat":"38.963745","lng":"35.243322","name":"Turkey"},{"code":"TT","lat":"10.691803","lng":"-61.222503","name":"Trinidad and Tobago"},{"code":"TV","lat":"-7.109535","lng":"177.64933","name":"Tuvalu"},{"code":"TW","lat":"23.69781","lng":"120.960515","name":"Taiwan"},{"code":"TZ","lat":"-6.369028","lng":"34.888822","name":"Tanzania"},{"code":"UA","lat":"48.379433","lng":"31.16558","name":"Ukraine"},{"code":"UG","lat":"1.373333","lng":"32.290275","name":"Uganda"},{"code":"UY","lat":"-32.522779","lng":"-55.765835","name":"Uruguay"},{"code":"UZ","lat":"41.377491","lng":"64.585262","name":"Uzbekistan"},{"code":"VA","lat":"41.902916","lng":"12.453389","name":"Vatican City"},{"code":"VC","lat":"12.984305","lng":"-61.287228","name":"Saint Vincent and the Grenadines"},{"code":"VE","lat":"6.42375","lng":"-66.58973","name":"Venezuela"},{"code":"VN","lat":"14.058324","lng":"108.277199","name":"Vietnam"},{"code":"VU","lat":"-15.376706","lng":"166.959158","name":"Vanuatu"},{"code":"WF","lat":"-13.768752","lng":"-177.156097","name":"Wallis and Futuna"},{"code":"WS","lat":"-13.759029","lng":"-172.104629","name":"Samoa"},{"code":"XK","lat":"42.602636","lng":"20.902977","name":"Kosovo"},{"code":"YE","lat":"15.552727","lng":"48.516388","name":"Yemen"},{"code":"YT","lat":"-12.8275","lng":"45.166244","name":"Mayotte"},{"code":"ZA","lat":"-30.559482","lng":"22.937506","name":"South Africa"},{"code":"ZM","lat":"-13.133897","lng":"27.849332","name":"Zambia"},{"code":"ZW","lat":"-19.015438","lng":"29.154857","name":"Zimbabwe"}]}');
+class $d723e755cb23b394$var$Program {
+    constructor(programData){
+        this.programData = programData;
+        this.programm = null;
+        this.attributesAndBuffers = {};
+        this.uniformsLocations = {};
+        this.textures = {};
+    }
+    createShader(source, type, gl) {
+        const shader = gl.createShader(type);
+        gl.shaderSource(shader, source);
+        gl.compileShader(shader);
+        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
+            const info = gl.getShaderInfoLog(shader);
+            throw "Could not compile WebGL program. \n\n" + info;
+        }
+        return shader;
+    }
+    createProgram(gl) {
+        this.gl = gl;
+        const vS = this.createShader(this.programData.vertexShader, gl.VERTEX_SHADER, gl);
+        const fS = this.createShader(this.programData.fragmentShader, gl.FRAGMENT_SHADER, gl);
+        this.program = gl.createProgram();
+        gl.attachShader(this.program, vS);
+        gl.attachShader(this.program, fS);
+        gl.linkProgram(this.program);
+        if (!gl.getProgramParameter(this.program, gl.LINK_STATUS)) {
+            const info = gl.getProgramInfoLog(this.program);
+            throw "Could not compile WebGL program. \n\n" + info;
+        }
+        return this.program;
+    }
+    initAttributes() {
+        this.programData.attributes.keys().forEach((key)=>{
+            this.attributesLocations[key] = this.gl.getAttribLocation(this.program, key);
+        });
+    }
+    initUniforms() {
+        Object.keys(this.programData.uniforms).forEach((key)=>{
+            this.uniformsLocations[key] = this.gl.getUniformLocation(this.program, key);
+        });
+    }
+    getUniformLocation(name) {
+        return this.uniformsLocations[name];
+    }
+    initAttributeAndBuffer(attrName, attrType, numComponents, bufferData) {
+        let location;
+        const buffer = this.gl.createBuffer();
+        this.gl.bindBuffer(this.gl[attrType], buffer);
+        this.gl.bufferData(this.gl[attrType], bufferData, this.gl.STATIC_DRAW);
+        if (attrType != "ELEMENT_ARRAY_BUFFER") location = this.gl.getAttribLocation(this.program, attrName);
+        else {
+            buffer.itemSize = 1;
+            buffer.numItems = bufferData.length;
+        }
+        this.attributesAndBuffers[attrName] = {
+            location: location,
+            buffer: buffer,
+            array: bufferData,
+            numComponents: numComponents,
+            attrName: attrName,
+            attrType: attrType
+        };
+    }
+    setAttributesAndBuffers() {
+        Object.keys(this.attributesAndBuffers).forEach((key)=>{
+            const data = this.attributesAndBuffers[key];
+            this.gl.bindBuffer(this.gl[data.attrType], data.buffer);
+            if (data.attrType !== "ELEMENT_ARRAY_BUFFER") {
+                this.gl.vertexAttribPointer(data.location, data.numComponents, this.gl.FLOAT, false, 0, 0);
+                this.gl.enableVertexAttribArray(data.location);
+            } else {
+                data.buffer.itemSize = 1;
+                data.buffer.numItems = data.array.length;
+            }
+        });
+    }
+    setUniformMatrix4(name, matrix) {
+        this.gl.uniformMatrix4fv(this.uniformsLocations[name], false, matrix);
+    }
+    uniform3fv(name, vec3) {
+        this.gl.uniform3fv(this.uniformsLocations[name], vec3);
+    }
+    use() {
+        this.gl.useProgram(this.program);
+    }
+    async createTexture(src, block, isSmooth, uniformName, color) {
+        color = color || [
+            0,
+            0,
+            0,
+            0
+        ];
+        let t = Date.now();
+        const gl = this.gl;
+        this.textureBlock = block;
+        uniformName = uniformName || "u_texture";
+        const location = gl.getUniformLocation(this.program, uniformName);
+        const texture = gl.createTexture();
+        gl.bindTexture(gl.TEXTURE_2D, texture);
+        gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, 1, 1, 0, gl.RGBA, gl.UNSIGNED_BYTE, new Uint8Array(color));
+        this.textures[uniformName] = {
+            block: block,
+            texture: texture,
+            location: location,
+            name: uniformName
+        };
+        const image = await this.loadTexture(src);
+        this.image = image;
+        gl.bindTexture(gl.TEXTURE_2D, texture);
+        gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, true);
+        gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, image);
+        if (isSmooth) {
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
+        } else {
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR_MIPMAP_LINEAR);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.REPEAT);
+            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.REPEAT);
+        }
+        gl.generateMipmap(gl.TEXTURE_2D);
+        return image;
+    }
+    bindTexture(block) {
+        const gl = this.gl;
+        if (block) {
+            gl.activeTexture(gl.TEXTURE0 + block);
+            gl.bindTexture(gl.TEXTURE_2D, this.textures["u_texture"].texture);
+            this.gl.uniform1i(this.textures["u_texture"].location, block);
+        }
+        // gl.activeTexture(gl.TEXTURE0);
+        // gl.bindTexture(gl.TEXTURE_2D, this.texture);
+        // this.gl.uniform1i(this.textureUniformLocation, 0);
+        //this.gl.bindTexture(this.gl.TEXTURE_2D, this.texture);
+        Object.keys(this.textures).forEach((key)=>{
+            //console.log(this.textures[key]);
+            gl.activeTexture(gl.TEXTURE0 + this.textures[key].block);
+            gl.bindTexture(gl.TEXTURE_2D, this.textures[key].texture);
+            this.gl.uniform1i(this.textures[key].location, this.textures[key].block);
+        });
+    }
+    loadTexture(src) {
+        return new Promise((resolve, reject)=>{
+            const image = new Image();
+            image.src = src;
+            image.addEventListener("load", (f)=>{
+                resolve(image);
+            });
+        });
+    }
+}
+var $d723e755cb23b394$export$2e2bcd8739ae039 = $d723e755cb23b394$var$Program;
 
 
 const $7197f322bd6a047e$export$a3fb0512ff5637b9 = (lat, lang)=>{
@@ -2511,350 +2706,6 @@ const $583352a84ea0c220$export$53592f2646555624 = (coords)=>{
 };
 
 
-let $122c8b7f14b2ba66$var$g = (0, (/*@__PURE__*/$parcel$interopDefault($0e29f89097e37eaa$exports))).countries;
-const $122c8b7f14b2ba66$var$dp = 512;
-const $122c8b7f14b2ba66$var$atlasW = 2048;
-const $122c8b7f14b2ba66$var$atlasH = 1024;
-const $122c8b7f14b2ba66$var$canvasWidth = 945;
-const $122c8b7f14b2ba66$var$canvasHeight = 945;
-const $122c8b7f14b2ba66$var$w = 2 / $122c8b7f14b2ba66$var$canvasWidth;
-const $122c8b7f14b2ba66$var$h = 2 / $122c8b7f14b2ba66$var$canvasHeight;
-const $122c8b7f14b2ba66$var$baseCoords = {
-    x: 0,
-    y: 0
-};
-const $122c8b7f14b2ba66$export$7481db2e0de8e74d = (char, baseCoords1, offset)=>{
-    const charData = (0, (/*@__PURE__*/$parcel$interopDefault($5d11ffc170b1a8db$exports))).chars.find((el)=>el.char === char);
-    baseCoords1 = {
-        x: 0,
-        y: 0,
-        z: 0
-    };
-    const top = 1 - charData.y / $122c8b7f14b2ba66$var$atlasH;
-    const bottom = top - charData.height / $122c8b7f14b2ba66$var$atlasH;
-    const left = charData.x / $122c8b7f14b2ba66$var$atlasW;
-    const right = left + charData.width / $122c8b7f14b2ba66$var$atlasW;
-    const topV = baseCoords1.y - charData.yoffset * $122c8b7f14b2ba66$var$h + 200 * $122c8b7f14b2ba66$var$h;
-    const bottomV = topV - charData.height * $122c8b7f14b2ba66$var$h;
-    const leftV = offset * $122c8b7f14b2ba66$var$w + charData.xoffset * $122c8b7f14b2ba66$var$w;
-    const rightV = leftV + charData.width * $122c8b7f14b2ba66$var$w;
-    const vertexArray = [
-        leftV,
-        topV,
-        0,
-        rightV,
-        topV,
-        0,
-        leftV,
-        bottomV,
-        0,
-        rightV,
-        topV,
-        0,
-        rightV,
-        bottomV,
-        0,
-        leftV,
-        bottomV,
-        0, 
-    ];
-    const textureCoordsArray = [
-        left,
-        top,
-        right,
-        top,
-        left,
-        bottom,
-        right,
-        top,
-        right,
-        bottom,
-        left,
-        bottom, 
-    ];
-    return {
-        vertexArray: vertexArray,
-        textureCoordsArray: textureCoordsArray,
-        offset: leftV / $122c8b7f14b2ba66$var$w + charData.xadvance + 26
-    };
-};
-const $122c8b7f14b2ba66$export$c222d9cdf9a4821b = (str, baseCoords2)=>{
-    const vertexArray = [];
-    const textureCoordsArray = [];
-    let width = 0;
-    Array.from(str).forEach((char)=>{
-        const charData = (0, (/*@__PURE__*/$parcel$interopDefault($5d11ffc170b1a8db$exports))).chars.find((el)=>el.char === char);
-        width = width + charData.xadvance;
-    });
-    let offset = 0;
-    Array.from(str).forEach((char)=>{
-        const charData = $122c8b7f14b2ba66$export$7481db2e0de8e74d(char, baseCoords2, offset);
-        charData.vertexArray.forEach((el)=>vertexArray.push(el));
-        charData.textureCoordsArray.forEach((el)=>textureCoordsArray.push(el));
-        offset = charData.offset;
-    });
-    return {
-        vertexArray: vertexArray,
-        textureCoordsArray: textureCoordsArray
-    };
-};
-const $122c8b7f14b2ba66$export$f81a3ec2bfb3f287 = ()=>{
-    const vertexArray = [];
-    const coordsArray = [];
-    const textureCoordsArray = [];
-    let vC = 0;
-    (0, $583352a84ea0c220$export$2e2bcd8739ae039).forEach((c)=>{
-        const name = c.name.trim();
-        const coords = (0, $7197f322bd6a047e$export$39e042fd83f1b62e)(c.lat, c.lng, 1);
-        const countryData = $122c8b7f14b2ba66$export$c222d9cdf9a4821b(name, {
-            x: coords[0],
-            y: coords[1],
-            z: coords[2]
-        });
-        vC += name.length;
-        countryData.vertexArray.forEach((el)=>vertexArray.push(el));
-        countryData.textureCoordsArray.forEach((el)=>textureCoordsArray.push(el));
-        for(let index = 0; index < name.length * 6; index++){
-            coordsArray.push(coords[0]);
-            coordsArray.push(coords[1]);
-            coordsArray.push(coords[2]);
-        }
-    });
-    return {
-        vertexArray: vertexArray,
-        textureCoordsArray: textureCoordsArray,
-        coordsArray: coordsArray
-    };
-};
-const $122c8b7f14b2ba66$export$236350842f3cd9bc = (name, lat, lng)=>{
-    const vertexArray = [];
-    const coordsArray = [];
-    const textureCoordsArray = [];
-    name = name.trim();
-    coords = (0, $7197f322bd6a047e$export$39e042fd83f1b62e)(lat, lng, 1);
-    const countryData = $122c8b7f14b2ba66$export$c222d9cdf9a4821b(name, {
-        x: coords[0],
-        y: coords[1],
-        z: coords[2]
-    });
-    for(let index = 0; index < name.length * 6; index++){
-        coordsArray.push(coords[0]);
-        coordsArray.push(coords[1]);
-        coordsArray.push(coords[2]);
-    }
-    return {
-        vertexArray: countryData.vertexArray,
-        textureCoordsArray: countryData.textureCoordsArray,
-        coordsArray: coordsArray
-    };
-};
-
-
-const $4a6945cabdc0860e$var$getSphereData = (latitudeBands, longitudeBands, radius, textureRatio)=>{
-    const vertexPositionData = [];
-    const normalData = [];
-    const textureCoordData = [];
-    for(let latNumber = 0; latNumber <= latitudeBands; latNumber++){
-        const theta = latNumber * Math.PI / latitudeBands;
-        const sinTheta = Math.sin(theta);
-        const cosTheta = Math.cos(theta);
-        for(let longNumber = 0; longNumber <= longitudeBands; longNumber++){
-            const phi = longNumber * 2 * Math.PI / longitudeBands;
-            const sinPhi = Math.sin(phi);
-            const cosPhi = Math.cos(phi);
-            const x = cosPhi * sinTheta;
-            const y = cosTheta;
-            const z = sinPhi * sinTheta;
-            const u = 1 - longNumber / longitudeBands;
-            const v = 1 - latNumber / latitudeBands;
-            normalData.push(x);
-            normalData.push(y);
-            normalData.push(z);
-            textureCoordData.push(u * textureRatio);
-            textureCoordData.push(v * textureRatio);
-            vertexPositionData.push(radius * x);
-            vertexPositionData.push(radius * y);
-            vertexPositionData.push(radius * z);
-        }
-    }
-    const indexData = [];
-    for(let latNumber1 = 0; latNumber1 < latitudeBands; latNumber1++)for(let longNumber = 0; longNumber < longitudeBands; longNumber++){
-        const first = latNumber1 * (longitudeBands + 1) + longNumber;
-        const second = first + longitudeBands + 1;
-        indexData.push(first);
-        indexData.push(second);
-        indexData.push(first + 1);
-        indexData.push(second);
-        indexData.push(second + 1);
-        indexData.push(first + 1);
-    }
-    return {
-        vertexPositionData: vertexPositionData,
-        textureCoordData: textureCoordData,
-        indexData: indexData,
-        normalData: normalData
-    };
-};
-var $4a6945cabdc0860e$export$2e2bcd8739ae039 = $4a6945cabdc0860e$var$getSphereData;
-
-
-class $d723e755cb23b394$var$Program {
-    constructor(programData){
-        this.programData = programData;
-        this.programm = null;
-        this.attributesAndBuffers = {};
-        this.uniformsLocations = {};
-        this.textures = {};
-    }
-    createShader(source, type, gl) {
-        const shader = gl.createShader(type);
-        gl.shaderSource(shader, source);
-        gl.compileShader(shader);
-        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
-            const info = gl.getShaderInfoLog(shader);
-            throw "Could not compile WebGL program. \n\n" + info;
-        }
-        return shader;
-    }
-    createProgram(gl) {
-        this.gl = gl;
-        const vS = this.createShader(this.programData.vertexShader, gl.VERTEX_SHADER, gl);
-        const fS = this.createShader(this.programData.fragmentShader, gl.FRAGMENT_SHADER, gl);
-        this.program = gl.createProgram();
-        gl.attachShader(this.program, vS);
-        gl.attachShader(this.program, fS);
-        gl.linkProgram(this.program);
-        if (!gl.getProgramParameter(this.program, gl.LINK_STATUS)) {
-            const info = gl.getProgramInfoLog(this.program);
-            throw "Could not compile WebGL program. \n\n" + info;
-        }
-        return this.program;
-    }
-    initAttributes() {
-        this.programData.attributes.keys().forEach((key)=>{
-            this.attributesLocations[key] = this.gl.getAttribLocation(this.program, key);
-        });
-    }
-    initUniforms() {
-        Object.keys(this.programData.uniforms).forEach((key)=>{
-            this.uniformsLocations[key] = this.gl.getUniformLocation(this.program, key);
-        });
-    }
-    getUniformLocation(name) {
-        return this.uniformsLocations[name];
-    }
-    initAttributeAndBuffer(attrName, attrType, numComponents, bufferData) {
-        let location;
-        const buffer = this.gl.createBuffer();
-        this.gl.bindBuffer(this.gl[attrType], buffer);
-        this.gl.bufferData(this.gl[attrType], bufferData, this.gl.STATIC_DRAW);
-        if (attrType != "ELEMENT_ARRAY_BUFFER") location = this.gl.getAttribLocation(this.program, attrName);
-        else {
-            buffer.itemSize = 1;
-            buffer.numItems = bufferData.length;
-        }
-        this.attributesAndBuffers[attrName] = {
-            location: location,
-            buffer: buffer,
-            array: bufferData,
-            numComponents: numComponents,
-            attrName: attrName,
-            attrType: attrType
-        };
-    }
-    setAttributesAndBuffers() {
-        Object.keys(this.attributesAndBuffers).forEach((key)=>{
-            const data = this.attributesAndBuffers[key];
-            this.gl.bindBuffer(this.gl[data.attrType], data.buffer);
-            if (data.attrType !== "ELEMENT_ARRAY_BUFFER") {
-                this.gl.vertexAttribPointer(data.location, data.numComponents, this.gl.FLOAT, false, 0, 0);
-                this.gl.enableVertexAttribArray(data.location);
-            } else {
-                data.buffer.itemSize = 1;
-                data.buffer.numItems = data.array.length;
-            }
-        });
-    }
-    setUniformMatrix4(name, matrix) {
-        this.gl.uniformMatrix4fv(this.uniformsLocations[name], false, matrix);
-    }
-    uniform3fv(name, vec3) {
-        this.gl.uniform3fv(this.uniformsLocations[name], vec3);
-    }
-    use() {
-        this.gl.useProgram(this.program);
-    }
-    async createTexture(src, block, isSmooth, uniformName, color) {
-        color = color || [
-            0,
-            0,
-            0,
-            0
-        ];
-        let t = Date.now();
-        const gl = this.gl;
-        this.textureBlock = block;
-        uniformName = uniformName || "u_texture";
-        const location = gl.getUniformLocation(this.program, uniformName);
-        const texture = gl.createTexture();
-        gl.bindTexture(gl.TEXTURE_2D, texture);
-        gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, 1, 1, 0, gl.RGBA, gl.UNSIGNED_BYTE, new Uint8Array(color));
-        this.textures[uniformName] = {
-            block: block,
-            texture: texture,
-            location: location,
-            name: uniformName
-        };
-        const image = await this.loadTexture(src);
-        this.image = image;
-        gl.bindTexture(gl.TEXTURE_2D, texture);
-        gl.pixelStorei(gl.UNPACK_FLIP_Y_WEBGL, true);
-        gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA, gl.RGBA, gl.UNSIGNED_BYTE, image);
-        if (isSmooth) {
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
-        } else {
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR_MIPMAP_LINEAR);
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.REPEAT);
-            gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.REPEAT);
-        }
-        gl.generateMipmap(gl.TEXTURE_2D);
-        return image;
-    }
-    bindTexture(block) {
-        const gl = this.gl;
-        if (block) {
-            gl.activeTexture(gl.TEXTURE0 + block);
-            gl.bindTexture(gl.TEXTURE_2D, this.textures["u_texture"].texture);
-            this.gl.uniform1i(this.textures["u_texture"].location, block);
-        }
-        // gl.activeTexture(gl.TEXTURE0);
-        // gl.bindTexture(gl.TEXTURE_2D, this.texture);
-        // this.gl.uniform1i(this.textureUniformLocation, 0);
-        //this.gl.bindTexture(this.gl.TEXTURE_2D, this.texture);
-        Object.keys(this.textures).forEach((key)=>{
-            //console.log(this.textures[key]);
-            gl.activeTexture(gl.TEXTURE0 + this.textures[key].block);
-            gl.bindTexture(gl.TEXTURE_2D, this.textures[key].texture);
-            this.gl.uniform1i(this.textures[key].location, this.textures[key].block);
-        });
-    }
-    loadTexture(src) {
-        return new Promise((resolve, reject)=>{
-            const image = new Image();
-            image.src = src;
-            image.addEventListener("load", (f)=>{
-                resolve(image);
-            });
-        });
-    }
-}
-var $d723e755cb23b394$export$2e2bcd8739ae039 = $d723e755cb23b394$var$Program;
-
-
-
-
 var $1575c02ee9655c0d$exports = {};
 $1575c02ee9655c0d$exports = "precision mediump float;\n#define GLSLIFY 1\n\nvarying vec2 vTextureCoord;\n\nuniform sampler2D u_texture;\nuniform sampler2D u_cloud;\nuniform vec3 u_lightDirection;\nuniform vec3 u_cameraDirection;\n\nvarying vec3 vNormal;\n\nfloat smoothClamp(float x, float a, float b) {\n        return smoothstep(0., 1., (2./3.)*(x - a)/(b - a) + (1./6.))*(b - a) + a;\n}\n\nvoid main() {\n    vec3 normal = normalize(vNormal);\n    vec4 color = texture2D(u_texture, vTextureCoord);\n    vec4 color3 = texture2D(u_cloud, vTextureCoord);\n    float light = smoothClamp(dot(vNormal, u_lightDirection) * 2.0, 0.2, 1.1);\n    float ac = exp(dot(vNormal, u_lightDirection)) / 2.0;\n    float oreol = 1.0;\n    if(color.b > (color.g + color.r)) {\n        oreol =  smoothClamp(ac, 1.0, 1.25);\n    }\n    float res = light * oreol;\n    gl_FragColor = vec4(color.r * res, color.g * res, color.b * res, 1.0);\n}";
 
@@ -3191,7 +3042,6 @@ const $74a5b179c5969087$var$init = ()=>{
     });
     programOreol.createProgram(gl);
     const label = document.querySelector(".label");
-    const p1 = (0, $122c8b7f14b2ba66$export$236350842f3cd9bc)("Russia", 55.7522, 37.6156);
     var latitudeBands = 48;
     var longitudeBands = 48;
     var radius = 1;
